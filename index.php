@@ -39,7 +39,7 @@
         </div>
     </nav>
     
-    <div class="container mt-2">
+    <div class="container mt-2 mb-4">
         <?php include_once('webpro.php'); ?>
     </div>
         
