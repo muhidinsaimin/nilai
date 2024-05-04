@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $userdb = 'root';
-$passdb = 'abudata';
+$passdb = '';
 $db = 'pesat10_nilai2';
 $con = mysqli_connect($host, $userdb, $passdb, $db);
 
