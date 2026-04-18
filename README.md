@@ -5,3 +5,13 @@ id
 kelas
 kapasitas
 terisi
+
+## CRUD Siswa
+Membuat CRUD Siswa dengan kolom sebagaim berikut
+id
+nis
+nama
+jk
+kelas
+alamat
+foto
